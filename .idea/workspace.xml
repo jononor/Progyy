@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a6329e7-72fc-42b8-92ed-d19b8c00e99a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/su/ovning1/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/su/ovning1/CompactDisc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/su/ovning1/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/su/ovning1/LongPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/su/ovning1/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/su/ovning1/Priceable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/su/ovning1/PriceableWithVAT25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/su/ovning1/PriceableWithVAT6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/su/ovning1/Recording.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Johan8810&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/isaksamsten/prog2-ovning1.git&quot;,
+    &quot;accountId&quot;: &quot;16f5b468-e37f-48b4-acc3-8d25eb08529c&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2vjPrQSskmFdTV9QCHaYc8QzFjd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Item.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Exercise1Test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Johan/Music/Hundregister/hej/prog2-ovning1/src/main/java/se/su/ovning1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Johan/Music/Hundregister/hej/prog2-ovning11&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.Exercise1Test">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.su.ovning1.Main" />
+      <module name="ovning1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.su.ovning1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ovning1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.su.ovning1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.su.ovning1" />
+      <option name="MAIN_CLASS_NAME" value="se.su.ovning1.Exercise1Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="prog2-ovning1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="prog2-ovning1" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Exercise1Test" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a6329e7-72fc-42b8-92ed-d19b8c00e99a" name="Changes" comment="" />
+      <created>1744655707778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744655707778</updated>
+      <workItem from="1744655709102" duration="7330000" />
+      <workItem from="1744902672293" duration="7821000" />
+      <workItem from="1744914070904" duration="2000" />
+      <workItem from="1744914126328" duration="995000" />
+      <workItem from="1744915140016" duration="236000" />
+      <workItem from="1745706579658" duration="3000" />
+      <workItem from="1757722017738" duration="697000" />
+      <workItem from="1760497992219" duration="8000" />
+      <workItem from="1760498052933" duration="1000" />
+      <workItem from="1760588067009" duration="7124000" />
+      <workItem from="1760703074310" duration="599000" />
+      <workItem from="1760928358894" duration="1144000" />
+      <workItem from="1761036965932" duration="600000" />
+      <workItem from="1761037897032" duration="594000" />
+      <workItem from="1761135173714" duration="595000" />
+      <workItem from="1761238122015" duration="595000" />
+      <workItem from="1761525961104" duration="595000" />
+      <workItem from="1761558702435" duration="595000" />
+      <workItem from="1761653171192" duration="594000" />
+      <workItem from="1761749729563" duration="650000" />
+      <workItem from="1761801336340" duration="595000" />
+      <workItem from="1762011289605" duration="604000" />
+      <workItem from="1762020613794" duration="594000" />
+      <workItem from="1762191240429" duration="649000" />
+      <workItem from="1763639023943" duration="604000" />
+      <workItem from="1768961574551" duration="589000" />
+      <workItem from="1769233655286" duration="600000" />
+      <workItem from="1769388359007" duration="595000" />
+      <workItem from="1769616622968" duration="594000" />
+      <workItem from="1770051498244" duration="596000" />
+      <workItem from="1770341283277" duration="593000" />
+      <workItem from="1770934489570" duration="1327000" />
+      <workItem from="1772023724906" duration="593000" />
+      <workItem from="1772209426733" duration="594000" />
+      <workItem from="1773081256085" duration="594000" />
+      <workItem from="1773258219541" duration="594000" />
+      <workItem from="1774721781794" duration="14064000" />
+      <workItem from="1775080155120" duration="658000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
