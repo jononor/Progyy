@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a6329e7-72fc-42b8-92ed-d19b8c00e99a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/su/ovning1/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/su/ovning1/CompactDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/su/ovning1/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/su/ovning1/LongPlay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/su/ovning1/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/su/ovning1/Priceable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/su/ovning1/PriceableWithVAT25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/su/ovning1/PriceableWithVAT6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/su/ovning1/Recording.java" afterDir="false" />
-    </list>
+    <list default="true" id="7a6329e7-72fc-42b8-92ed-d19b8c00e99a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +33,9 @@
     &quot;accountId&quot;: &quot;16f5b468-e37f-48b4-acc3-8d25eb08529c&quot;
   }
 }</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -59,29 +52,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Item.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Exercise1Test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/Johan/Music/Hundregister/hej/prog2-ovning1/src/main/java/se/su/ovning1&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Johan/Music/Hundregister/hej/prog2-ovning11&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Item.executor": "Run",
+    "Application.Main.executor": "Run",
+    "JUnit.Exercise1Test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/Johan/Music/Hundregister/hej/prog2-ovning1/src/main/java/se/su/ovning1",
+    "last_opened_file_path": "C:/Users/Johan/Music/Hundregister/hej/prog2-ovning11",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="JUnit.Exercise1Test">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="se.su.ovning1.Main" />
@@ -129,14 +123,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -183,6 +169,7 @@
       <workItem from="1773258219541" duration="594000" />
       <workItem from="1774721781794" duration="14064000" />
       <workItem from="1775080155120" duration="658000" />
+      <workItem from="1775153194570" duration="2220000" />
     </task>
     <servers />
   </component>
