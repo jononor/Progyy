@@ -1,4 +1,4 @@
 package se.su.ovning1;
 
-public class Book {
+public class Book extends Item implements PriceableWithVAT6 {
 }
