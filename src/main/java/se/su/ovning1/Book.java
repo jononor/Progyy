@@ -21,7 +21,7 @@ public class Book extends Item implements PriceableWithVAT6 {
     public String getAuthor() {
         return author;
     }
-    @Override
+
     public String getType(){
         return "Book";
     }
