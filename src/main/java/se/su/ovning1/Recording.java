@@ -1,13 +1,13 @@
 package se.su.ovning1;
 
-public abstract class Recording {
+public abstract class Recording extends Item implements PriceableWithVAT25 {
     final protected int year;
     final protected String artist;
     final protected double price;
     final private String name;
     protected int condition;
 
-    Recording(String name, String artist, int year, int condition,
+    public Recording(String name, String artist, int year, int condition,
             double price) {
         this.name = name;
         this.artist = artist;
