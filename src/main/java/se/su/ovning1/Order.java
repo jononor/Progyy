@@ -25,21 +25,19 @@ public class Order {
 
     public String getReceipt() {
         final StringBuilder sb = new StringBuilder();
-        sb.append("Receipt for order #" + orderNumber + "\n");
-        sb.append(" - - - - - - - - - - -\n");
+        sb.append("Receipt for order #").append(orderNumber).append("\n");
+        sb.append("-----------");
 
         for (Item item : items) {
-            sb.append(item.toString() + "\n");
+            sb.append(item.toString()).append("\n");
         }
-
-        sb.append("\n");
         sb.append("Total excl . VAT : " + getTotalValue() + "\n");
         sb.append("Total incl . VAT : " + getTotalValuePlusVAT() + "\n");
         return sb.toString();
     }
 
     public Order(Item... items) {
-        this.orderNumber = counter++;
         this.items = List.of(items);
+        this.orderNumber = counter++;
     }
 }
