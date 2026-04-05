@@ -3,9 +3,9 @@
 import java.util.List;
 
 public class Order {
-    static private long counter;
-    final private long orderNumber;
-    final private List<Item> items;
+    private static long counter;
+    private final long orderNumber;
+    private final List<Item> items;
 
     public double getTotalValue() {
         double sum = 0;
