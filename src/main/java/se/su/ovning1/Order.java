@@ -7,6 +7,11 @@ public class Order {
     private final long orderNumber;
     private final List<Item> items;
 
+    public Order(Item... items) {
+        this.items = List.of(items);
+        this.orderNumber = counter++;
+    }
+
     public double getTotalValue() {
         double sum = 0;
         for (Item item : items) {
@@ -36,8 +41,5 @@ public class Order {
         return sb.toString();
     }
 
-    public Order(Item... items) {
-        this.items = List.of(items);
-        this.orderNumber = counter++;
-    }
+
 }
