@@ -10,8 +10,14 @@ public abstract class Recording extends Item implements PriceableWithVAT25 {
         super(name);
         this.artist = artist;
         this.year = year;
-        this.condition = condition;
         this.price = price;
+        if (condition <= 0) {
+            this.condition = 0;
+        } else if (condition >= 10) {
+            this.condition = 10;
+        } else {
+            this.condition = condition;
+        }
     }
 
     public abstract String getType();
