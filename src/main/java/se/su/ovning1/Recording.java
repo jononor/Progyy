@@ -23,8 +23,8 @@ public abstract class Recording extends Item implements PriceableWithVAT25 {
     public abstract String getType();
 
     public double getPrice() {
-        final double discountedPrice = condition / 10.0 * price;
-        final double minimumPrice = 10.0;
+        final double discountedPrice = price * ((double) condition / 10);
+        final double minimumPrice = 10;
         return Math.max(discountedPrice, minimumPrice);
     }
 
